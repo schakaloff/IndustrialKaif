@@ -1,0 +1,28 @@
+{
+  //ingots
+  "item.idk.copper_ingot": "Copper Ingot",
+  "item.idk.titanium_ingot": "Titanium Ingot",
+  "item.idk.aluminium_ingot": "Aluminium Ingot",
+  "item.idk.lead_ingot": "Lead Ingot",
+  "item.idk.cobalt_ingot": "Cobalt Ingot",
+  "item.idk.uranium_ingot": "Uranium Ingot",
+  "item.idk.plutonium_ingot": "Plutonium Ingot",
+  "item.idk.steel_ingot": "Steel Ingot",
+  "item.idk.fluorite": "Fluorite",
+  "item.idk.metal_detector": "Metal Detecor",
+  //food
+  "item.idk.rotten_beef": "Rotten Beef",
+  //blocks
+  "block.idk.copper_block": "Copper Block",
+  //ores
+  "block.idk.copper_ore": "Copper Ore",
+  "block.idk.fluorite_ore": "Fluorite Ore",
+  //tabs
+  "creativetab.ingots_tab": "Idk Ingots",
+  "creativetab.blocks_tab": "Idk Blocks",
+  "creativetab.food_tab": "Idk Food",
+  //tooltips
+  "tooltip.idk.metal_detector.tooltip": "Find Fluorite!"
+
+
+}

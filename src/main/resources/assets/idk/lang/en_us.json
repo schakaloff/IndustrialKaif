@@ -10,6 +10,10 @@
   "item.idk.steel_ingot": "Steel Ingot",
   "item.idk.fluorite": "Fluorite",
   "item.idk.metal_detector": "Metal Detecor",
+  "item.idk.advanced_alloy_ingot": "Advanced Alloy Ingot",
+  //tools
+  "item.idk.advanced_sword": "Advanced Sword",
+  "item.idk.advanced_pickaxe": "Advanced Pickaxe",
   //food
   "item.idk.rotten_beef": "Rotten Beef",
   //blocks

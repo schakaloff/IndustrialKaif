@@ -30,9 +30,9 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.FLUORITE_ORE.get());
 
         this.add(ModBlocks.COPPER_ORE.get(),
-                block -> createCopperLikeOreDrops(ModBlocks.COPPER_ORE.get(), ModItems.COPPER_INGOT.get()));
+                block -> createOreDrop(ModBlocks.COPPER_ORE.get(), Item.byBlock(ModBlocks.COPPER_ORE.get())));
         this.add(ModBlocks.COPPER_BLOCK.get(),
-                block -> createCopperLikeOreDrops(ModBlocks.COPPER_BLOCK.get(), ModItems.COPPER_INGOT.get()));
+                block -> createOreDrop(ModBlocks.COPPER_BLOCK.get(), Item.byBlock(ModBlocks.COPPER_BLOCK.get())));
         this.add(ModBlocks.FLUORITE_ORE.get(),
                 block -> createCopperLikeOreDrops(ModBlocks.FLUORITE_ORE.get(), ModItems.FLUORITE.get()));
 

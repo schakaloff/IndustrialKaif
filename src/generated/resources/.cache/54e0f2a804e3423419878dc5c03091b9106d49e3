@@ -1,0 +1,5 @@
+// 1.20.1	2025-07-14T23:39:56.460588235	Tags for minecraft:block mod id idk
+adc7fb44db1fefb8fcc433ebb5fcba00677f4ed7 data/idk/tags/blocks/metal_detector_valuables.json
+24ccf72bc5868da39c7c832c4d65b2da9b0b7c7c data/minecraft/tags/blocks/mineable/pickaxe.json
+540bdb07baeffabda030b9711bf1136b0c40f641 data/minecraft/tags/blocks/needs_iron_tool.json
+97a73cf904d980ab9f969e50cce97c7d81fa93b9 data/minecraft/tags/blocks/needs_stone_tool.json

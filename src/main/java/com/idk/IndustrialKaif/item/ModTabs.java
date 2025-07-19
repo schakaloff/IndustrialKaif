@@ -28,6 +28,9 @@ public class ModTabs {
                         pOutput.accept(ModItems.STEEL_INGOT.get());
                         pOutput.accept(ModItems.FLUORITE.get());
                         pOutput.accept(ModItems.METAL_DETECTOR.get());
+                        pOutput.accept(ModItems.ADVANCED_ALLOY_INGOT.get());
+                        pOutput.accept(ModItems.ADVANCED_SWORD.get());
+                        pOutput.accept(ModItems.ADVANCED_PICKAXE.get());
 
                     })
                     .build());

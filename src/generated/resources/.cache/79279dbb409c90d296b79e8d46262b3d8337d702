@@ -1,0 +1,10 @@
+// 1.20.1	2025-07-14T23:39:56.460204317	Block States: idk
+52a39ad4fdcae282d69e116884d95ba3ccacb860 assets/idk/blockstates/copper_block.json
+18d6b7b22a92594dbfcca4109545d11010ccf913 assets/idk/blockstates/copper_ore.json
+18c30f8fbf4600f6a1ed9ea56f86942534a7f143 assets/idk/blockstates/fluorite_ore.json
+abb9a2922fe1bb09f5d5d7bd37275b551239a5ee assets/idk/models/block/copper_block.json
+1b22b858ca8076b823b6a9b709f6fef108ee3497 assets/idk/models/block/copper_ore.json
+f60104ab2c0e5bc46327a8486b9a920280770bc3 assets/idk/models/block/fluorite_ore.json
+d7390f791dd2dd7dffbb16f30747e12327e525f0 assets/idk/models/item/copper_block.json
+c5fe9a4d1e74733668360c9c8af6e07bff7fa859 assets/idk/models/item/copper_ore.json
+c6c50bc575d0a80ba9c6fba223b592b3a8ce0b07 assets/idk/models/item/fluorite_ore.json
